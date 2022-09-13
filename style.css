@@ -1,11 +1,14 @@
 body{
+    font-family: 'Arial';
+font-style: normal;
+}
+.firstsection{
     padding: 0px;
     margin: 0px;
     font-family: sans-serif;
     background-image: url(images/Section1.png);
     background-size: cover; 
-    font-family: 'Arial';
-font-style: normal;
+    
 }
 .section1{
     padding: 5rem;
@@ -33,4 +36,39 @@ font-size: 20px;
 line-height: 33px;
 color: #FFFFFF;
 padding-top: 3rem;
+}
+.section2{
+    background: #100001;
+    padding: 5rem;
+}
+.bonusclass{
+    font-weight: 900;
+font-size: 28px;
+line-height: 39px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.class100{
+    text-align: center;
+    color: #FF5300;
+     font-weight: 800;
+font-size: 100px;
+}
+.classup{
+    text-align: center;
+    color: #FFFFFF;
+     font-weight: 40;
+font-size: 30px;
+}
+.btn1{
+    text-align: center;
+    font-size: 25px;
+    border-radius: 70px;
+    color: #FFFFFF;
+    background-color: #FF5300;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    
 }
