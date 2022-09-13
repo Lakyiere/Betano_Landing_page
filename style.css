@@ -1,0 +1,36 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    background-image: url(images/Section1.png);
+    background-size: cover; 
+    font-family: 'Arial';
+font-style: normal;
+}
+.section1{
+    padding: 5rem;
+}
+.first{
+    
+font-weight: 900;
+font-size: 30px;
+line-height: 49px;
+text-transform: uppercase;
+
+color: #FF5300;
+padding-top: 4rem;
+}
+.second{
+    font-weight: 900;
+font-size: 50px;
+line-height: 78px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.third{
+    font-weight: 200;
+font-size: 20px;
+line-height: 33px;
+color: #FFFFFF;
+padding-top: 3rem;
+}
